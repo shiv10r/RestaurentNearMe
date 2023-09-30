@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Shivanshu",
+      "email": "shiv@terminator.com",
+      "mobile":"97947483938247",
+      "address":"hsr layout",
+      "services": "Food Services"
+
+
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "signup": {
+    "name": "Shivanshu",
+    "email": "shiv@terminator.com",
+    "mobile":"97947483938247",
+    "password":"Tarun_Test082",
+    "id":"1"
+  }
+}
